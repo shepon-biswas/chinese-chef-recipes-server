@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Martin Yan",
+    "bio": "Martin Yan was born in Guangzhou, China, and began cooking at the age of 12. His father was in the restaurant business and Yan picked up the culinary arts through the family. He went to college in Hong Kong to earn a degree in culinary arts. After graduating he moved to Canada to further his studies. He began a television show named Yan Can Cook and has hosted thousands of episodes since it began. Yan's other TV appearances include Martin Yan's Hong Kong, Martin Yan's Chinatowns and Martin Yan - Quick & Easy.  He was also the guest judge on Iron Chef America, Iron Chef Vietnam, Top Chef, and Hell's Kitchen.",
+    "image": "https://i.ibb.co/jRmvt62/chinese-chef-3.jpg",
+    "experiences": 3,
+    "recipes": 5,
+    "likes": 5213
+  },
+  {
+    "id": 2,
+    "name": "Ken Hom",
+    "bio": "Ken Hom was born in Tucson Arizona and then moved to Chicago Illinois as a small child. He began cooking at a young age while working in a restaurant his uncle owned. Hom ended up going to college at the University of California, Berkeley, and to help him earn some extra money while in school he began teaching cooking lessons. It became so widespread that he was eventually invited to the California Culinary Academy to teach. ",
+    "image": "https://i.ibb.co/cwxPKJW/chinese-chef-1.jpg",
+    "experiences": 4,
+    "recipes": 4,
+    "likes": 6013
+  },
+  {
+    "id": 3,
+    "name": "Susanna Foo",
+    "bio": "Susanna Foo did not begin in the kitchen as a small child like many famous chefs. In fact, neither of her parents taught her how to cook or were even in the restaurant business. Foo went to school to earn a degree in history and went on to work in a library. Foo and her husband later moved to the United States and helped his family with their restaurant in Philadelphia. Susanna helped cook in the kitchen and was later found by a food critic who loved her cooking and had her attend Culinary school as well as train in French cuisine. ",
+    "image": "https://i.ibb.co/XyQDxmB/chef-7.webp",
+    "experiences": 3,
+    "recipes": 3,
+    "likes": 8241
+  },
+  {
+    "id": 4,
+    "name": "Alvin Leung",
+    "bio": "Alvin Leung is an eccentric, self-taught chef who loves to push the boundaries of Chinese cooking. Many of his dishes are mixtures of cultures and he likes to call them “X-Treme Chinese” due to the largely inventive dishes that he serves. Leung's restaurant Bo Innovation has received two Michelin stars, his second restaurant, Bo London, has one Michelin star. Leung is known for serving dishes that combine British and Chinese cultures, many times cooking English food with Chinese ingredients. ",
+    "image": "https://i.ibb.co/tMr5Wp6/chinese-chef-6.webp",
+    "experiences": 3,
+    "recipes": 4,
+    "likes": 2581
+  },
+  {
+    "id": 5,
+    "name": "Danny Bowien",
+    "bio": "Danny Bowien began cooking as a normal part of life to help his family but soon became enamored with it as he found how it made people come together. He began working in many different restaurants in San Francisco and became so good during a stint at an Italian restaurant that he won first place in the 2008 Pesto World Championships.Bowien almost decided to give up cooking altogether until he found Chinese food and flavors to be more exotic and began to cook with these spicier, more eclectic foods. He eventually opened The Mission Chinese Food which became a huge success and was named as a top restaurant in several magazines. ",
+    "image": "https://i.ibb.co/7r32Pp8/danny-bowien.webp",
+    "experiences": 3,
+    "recipes": 3,
+    "likes": 5213
+  },
+  {
+    "id": 6,
+    "name": "Peter Chang",
+    "bio": "Peter Chang attended culinary school in China before starting his career working in luxury hotels as the head chef. He won cooking competitions and began to attract a lot of attention for his delicious Szechwan cuisine, so much so that he was encouraged to move to the United States to try out his craft. After moving to America Chang worked in small restaurants before opening Peter Chang's China Grill in Charlottesville. It was an instant hit and got Chang on the map. He opened several more restaurants and had one named as one of the Best New Restaurants in America by Bon Appetit magazine. ",
+    "image": "https://i.ibb.co/s1JpD4b/chinese-chef-4.jpg",
+    "experiences": 2,
+    "recipes": 3,
+    "likes": 6663
+  }
+]
