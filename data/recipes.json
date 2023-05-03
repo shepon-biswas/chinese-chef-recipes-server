@@ -1,0 +1,618 @@
+[
+  {
+    "_id": 1,
+    "chef_id": 1,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 2,
+    "chef_id": 5,
+    "name": "Hot and Sour Soup",
+    "ingredients": [
+      "4 cups chicken stock",
+      "1/2 cup bamboo shoots, julienned",
+      "1/2 cup mushrooms, sliced",
+      "1/2 cup tofu, diced",
+      "2 tbsp soy sauce",
+      "2 tbsp rice vinegar",
+      "2 tsp chili flakes",
+      "2 tsp sesame oil",
+      "2 eggs, beaten",
+      "2 tbsp cornstarch",
+      "2 tbsp water"
+    ],
+    "cooking_method": [
+      "In a pot, bring the chicken stock to a boil.",
+      "Add the bamboo shoots, mushrooms, tofu, soy sauce, rice vinegar, chili flakes, and sesame oil.",
+      "Simmer for 5-10 minutes.",
+      "Mix together cornstarch and water in a separate bowl.",
+      "Slowly pour the cornstarch mixture into the soup, stirring constantly until the soup thickens.",
+      "Slowly pour the beaten eggs into the soup, stirring gently to create egg ribbons.",
+      "Serve hot."
+    ],
+    "ratings": 4.2
+  },
+  {
+    "_id": 3,
+    "chef_id": 1,
+    "name": "Beef with Broccoli",
+    "ingredients": [
+      "1 lb flank steak, thinly sliced",
+      "1 lb broccoli florets",
+      "2 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tbsp cornstarch",
+      "1 tsp sugar"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add beef and stir-fry for 2-3 minutes, until browned.",
+      "Add garlic and ginger and stir-fry for 1-2 minutes.",
+      "Add broccoli and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, oyster sauce, cornstarch, and sugar.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the beef and broccoli.",
+      "Serve hot with rice."
+    ],
+    "ratings": 4.3
+  },
+  {
+    "_id": 4,
+    "chef_id": 3,
+    "name": "Ma Po Tofu",
+    "ingredients": [
+      "1 lb soft or silken tofu, cut into 1-inch cubes",
+      "2 tbsp vegetable oil",
+      "1/2 lb ground pork",
+      "1 tbsp Sichuan peppercorns",
+      "1 tbsp minced ginger",
+      "1 tbsp minced garlic",
+      "2 green onions, thinly sliced",
+      "2 tbsp chili bean paste",
+      "1 tbsp soy sauce",
+      "1 tbsp Shaoxing wine",
+      "1 cup chicken broth",
+      "1 tbsp cornstarch",
+      "1 tbsp water"
+    ],
+    "cooking_method": [
+      "In a small bowl, mix together soy sauce, Shaoxing wine, chicken broth, cornstarch, and water. Set aside.",
+      "Heat a wok over high heat. Add vegetable oil, then add ground pork and stir-fry until browned and cooked through, about 3-4 minutes.",
+      " Add Sichuan peppercorns, ginger, garlic, and green onions to the wok and stir-fry for 30 seconds.",
+      " Add chili bean paste to the wok and stir-fry for 30 seconds.",
+      " Pour in the soy sauce mixture and bring to a boil, stirring constantly, until the sauce thickens.",
+      " Add tofu to the wok and stir gently to coat with the sauce. Simmer for 5 minutes, stirring occasionally.\n7. Serve hot with rice."
+    ],
+    "ratings": 4.6
+  },
+  {
+    "_id": 5,
+    "chef_id": 4,
+    "name": "Mapo Eggplant",
+    "ingredients": [
+      "1 lb Chinese eggplant, cut into 1-inch pieces",
+      "1/4 lb ground pork",
+      "2 tbsp vegetable oil",
+      "2 tbsp chili bean paste",
+      "1 tbsp minced ginger",
+      "1 tbsp minced garlic",
+      "2 green onions, thinly sliced",
+      "1 tbsp Shaoxing wine",
+      "1 tbsp soy sauce",
+      "1 cup chicken broth",
+      "1 tbsp cornstarch",
+      "1 tbsp water",
+      "1 tbsp Sichuan peppercorns, toasted and ground"
+    ],
+    "cooking_method": [
+      "In a small bowl, mix together soy sauce, Shaoxing wine, chicken broth, cornstarch, and water. Set aside.",
+      ". Heat a wok over high heat. Add vegetable oil, then add ground pork and stir-fry until browned and cooked through, about 3-4 minutes.",
+      " Add chili bean paste, ginger, garlic, and green onions to the wok and stir-fry for 30 seconds.",
+      " Add eggplant to the wok and stir-fry for 3-4 minutes until tender.",
+      " Pour in the soy sauce mixture and bring to a boil, stirring constantly, until the sauce thickens.",
+      " Sprinkle ground Sichuan peppercorns over the top of the dish and serve hot with rice."
+    ],
+    "ratings": 4.7
+  },
+  {
+    "_id": 6,
+    "chef_id": 3,
+    "name": "Hainanese Chicken Rice",
+    "ingredients": [
+      "1 whole chicken (about 3-4 lbs)",
+      "3 cups jasmine rice",
+      "1 tbsp sesame oil",
+      "2 cloves garlic, minced",
+      "2 slices ginger",
+      "2 pandan leaves (optional)",
+      "1 tsp salt",
+      "1 tsp sugar",
+      "5 cups chicken broth",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1/2 tsp white pepper",
+      "2 green onions, thinly sliced",
+      "2 tbsp cilantro, chopped"
+    ],
+    "cooking_method": [
+      " Rinse the chicken under cold running water and pat dry. Rub the chicken with salt and set aside.",
+      ". Rinse the rice under cold running water until the water runs clear. Drain the rice and transfer it to a rice cooker.",
+      " Add sesame oil, garlic, ginger, pandan leaves (if using), salt, and sugar to the rice cooker. Mix well.",
+      " Add chicken broth to the rice cooker and stir well. Place the chicken on top of the rice mixture.",
+      " Cover the rice cooker and cook the rice according to the manufacturer's instructions.",
+      " In a small bowl, mix together soy sauce, oyster sauce, and white pepper. Set aside.",
+      " Once the rice cooker beeps, remove the chicken from the rice cooker and place it on a cutting board. Let it rest for 5 minutes.",
+      " Slice the chicken into bite-sized pieces and arrange them on a serving platter. Garnish with green onions and cilantro.",
+      " Serve the chicken with the rice and the soy sauce mixture on the side."
+    ],
+    "ratings": 4
+  },
+  {
+    "_id": 7,
+    "chef_id": 3,
+    "name": "Steamed Fish with Ginger and Scallions",
+    "ingredients": [
+      "1 lb whole fish, such as tilapia or sea bass",
+      "1/4 cup soy sauce",
+      "2 tbsp Shaoxing wine",
+      "2 tbsp vegetable oil",
+      "1 tbsp minced ginger",
+      "2 green onions, thinly sliced",
+      "1/4 cup hot water"
+    ],
+    "cooking_method": [
+      "Clean the fish and place it on a plate.",
+      " In a small bowl, mix together soy sauce and Shaoxing wine. Pour the mixture over the fish.",
+      " Scatter ginger and green onions on top of the fish.",
+      " In a wok or a steamer, bring water to a boil. Place the plate with the fish on top of a steaming rack and place it in the wok or steamer.",
+      " Cover the wok or steamer and steam the fish for 10-12 minutes, or until cooked through.",
+      " In a small saucepan, heat up vegetable oil until hot. Pour it over the ginger and green onions on the fish.\n7. Serve hot with steamed rice."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 8,
+    "chef_id": 1,
+    "name": "Steamed Fish with Ginger and Scallions",
+    "ingredients": [
+      "1 lb whole fish, such as tilapia or sea bass",
+      "1/4 cup soy sauce",
+      "2 tbsp Shaoxing wine",
+      "2 tbsp vegetable oil",
+      "1 tbsp minced ginger",
+      "2 green onions, thinly sliced",
+      "1/4 cup hot water"
+    ],
+    "cooking_method": [
+      "Clean the fish and place it on a plate.",
+      " In a small bowl, mix together soy sauce and Shaoxing wine. Pour the mixture over the fish.",
+      " Scatter ginger and green onions on top of the fish.",
+      " In a wok or a steamer, bring water to a boil. Place the plate with the fish on top of a steaming rack and place it in the wok or steamer.",
+      " Cover the wok or steamer and steam the fish for 10-12 minutes, or until cooked through.",
+      " In a small saucepan, heat up vegetable oil until hot. Pour it over the ginger and green onions on the fish.\n7. Serve hot with steamed rice."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 9,
+    "chef_id": 6,
+    "name": "Steamed Fish with Ginger and Scallions",
+    "ingredients": [
+      "1 lb whole fish, such as tilapia or sea bass",
+      "1/4 cup soy sauce",
+      "2 tbsp Shaoxing wine",
+      "2 tbsp vegetable oil",
+      "1 tbsp minced ginger",
+      "2 green onions, thinly sliced",
+      "1/4 cup hot water"
+    ],
+    "cooking_method": [
+      "Clean the fish and place it on a plate.",
+      " In a small bowl, mix together soy sauce and Shaoxing wine. Pour the mixture over the fish.",
+      " Scatter ginger and green onions on top of the fish.",
+      " In a wok or a steamer, bring water to a boil. Place the plate with the fish on top of a steaming rack and place it in the wok or steamer.",
+      " Cover the wok or steamer and steam the fish for 10-12 minutes, or until cooked through.",
+      " In a small saucepan, heat up vegetable oil until hot. Pour it over the ginger and green onions on the fish.\n7. Serve hot with steamed rice."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 10,
+    "chef_id": 4,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 11,
+    "chef_id": 6,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 12,
+    "chef_id": 4,
+    "name": "Hainanese Chicken Rice",
+    "ingredients": [
+      "1 whole chicken (about 3-4 lbs)",
+      "3 cups jasmine rice",
+      "1 tbsp sesame oil",
+      "2 cloves garlic, minced",
+      "2 slices ginger",
+      "2 pandan leaves (optional)",
+      "1 tsp salt",
+      "1 tsp sugar",
+      "5 cups chicken broth",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1/2 tsp white pepper",
+      "2 green onions, thinly sliced",
+      "2 tbsp cilantro, chopped"
+    ],
+    "cooking_method": [
+      " Rinse the chicken under cold running water and pat dry. Rub the chicken with salt and set aside.",
+      ". Rinse the rice under cold running water until the water runs clear. Drain the rice and transfer it to a rice cooker.",
+      " Add sesame oil, garlic, ginger, pandan leaves (if using), salt, and sugar to the rice cooker. Mix well.",
+      " Add chicken broth to the rice cooker and stir well. Place the chicken on top of the rice mixture.",
+      " Cover the rice cooker and cook the rice according to the manufacturer's instructions.",
+      " In a small bowl, mix together soy sauce, oyster sauce, and white pepper. Set aside.",
+      " Once the rice cooker beeps, remove the chicken from the rice cooker and place it on a cutting board. Let it rest for 5 minutes.",
+      " Slice the chicken into bite-sized pieces and arrange them on a serving platter. Garnish with green onions and cilantro.",
+      " Serve the chicken with the rice and the soy sauce mixture on the side."
+    ],
+    "ratings": 4
+  },
+  {
+    "_id": 13,
+    "chef_id": 4,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 14,
+    "chef_id": 6,
+    "name": "Hainanese Chicken Rice",
+    "ingredients": [
+      "1 whole chicken (about 3-4 lbs)",
+      "3 cups jasmine rice",
+      "1 tbsp sesame oil",
+      "2 cloves garlic, minced",
+      "2 slices ginger",
+      "2 pandan leaves (optional)",
+      "1 tsp salt",
+      "1 tsp sugar",
+      "5 cups chicken broth",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1/2 tsp white pepper",
+      "2 green onions, thinly sliced",
+      "2 tbsp cilantro, chopped"
+    ],
+    "cooking_method": [
+      " Rinse the chicken under cold running water and pat dry. Rub the chicken with salt and set aside.",
+      ". Rinse the rice under cold running water until the water runs clear. Drain the rice and transfer it to a rice cooker.",
+      " Add sesame oil, garlic, ginger, pandan leaves (if using), salt, and sugar to the rice cooker. Mix well.",
+      " Add chicken broth to the rice cooker and stir well. Place the chicken on top of the rice mixture.",
+      " Cover the rice cooker and cook the rice according to the manufacturer's instructions.",
+      " In a small bowl, mix together soy sauce, oyster sauce, and white pepper. Set aside.",
+      " Once the rice cooker beeps, remove the chicken from the rice cooker and place it on a cutting board. Let it rest for 5 minutes.",
+      " Slice the chicken into bite-sized pieces and arrange them on a serving platter. Garnish with green onions and cilantro.",
+      " Serve the chicken with the rice and the soy sauce mixture on the side."
+    ],
+    "ratings": 4
+  },
+  {
+    "_id": 15,
+    "chef_id": 1,
+    "name": "Hot and Sour Soup",
+    "ingredients": [
+      "4 cups chicken stock",
+      "1/2 cup bamboo shoots, julienned",
+      "1/2 cup mushrooms, sliced",
+      "1/2 cup tofu, diced",
+      "2 tbsp soy sauce",
+      "2 tbsp rice vinegar",
+      "2 tsp chili flakes",
+      "2 tsp sesame oil",
+      "2 eggs, beaten",
+      "2 tbsp cornstarch",
+      "2 tbsp water"
+    ],
+    "cooking_method": [
+      "In a pot, bring the chicken stock to a boil.",
+      "Add the bamboo shoots, mushrooms, tofu, soy sauce, rice vinegar, chili flakes, and sesame oil.",
+      "Simmer for 5-10 minutes.",
+      "Mix together cornstarch and water in a separate bowl.",
+      "Slowly pour the cornstarch mixture into the soup, stirring constantly until the soup thickens.",
+      "Slowly pour the beaten eggs into the soup, stirring gently to create egg ribbons.",
+      "Serve hot."
+    ],
+    "ratings": 4.2
+  },
+  {
+    "_id": 16,
+    "chef_id": 3,
+    "name": "Hot and Sour Soup",
+    "ingredients": [
+      "4 cups chicken stock",
+      "1/2 cup bamboo shoots, julienned",
+      "1/2 cup mushrooms, sliced",
+      "1/2 cup tofu, diced",
+      "2 tbsp soy sauce",
+      "2 tbsp rice vinegar",
+      "2 tsp chili flakes",
+      "2 tsp sesame oil",
+      "2 eggs, beaten",
+      "2 tbsp cornstarch",
+      "2 tbsp water"
+    ],
+    "cooking_method": [
+      "In a pot, bring the chicken stock to a boil.",
+      "Add the bamboo shoots, mushrooms, tofu, soy sauce, rice vinegar, chili flakes, and sesame oil.",
+      "Simmer for 5-10 minutes.",
+      "Mix together cornstarch and water in a separate bowl.",
+      "Slowly pour the cornstarch mixture into the soup, stirring constantly until the soup thickens.",
+      "Slowly pour the beaten eggs into the soup, stirring gently to create egg ribbons.",
+      "Serve hot."
+    ],
+    "ratings": 4.2
+  },
+  {
+    "_id": 17,
+    "chef_id": 2,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 18,
+    "chef_id": 6,
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, cut into 1-inch cubes",
+      "1 red bell pepper, chopped",
+      "1 green bell pepper, chopped",
+      "1/2 cup roasted peanuts",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp cornstarch",
+      "1 tsp chili flakes"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add chicken and stir-fry for 3-4 minutes, until browned.",
+      "Add garlic, ginger, and chili flakes and stir-fry for 1-2 minutes.",
+      "Add bell peppers and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, hoisin sauce, rice vinegar, and cornstarch.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the chicken and vegetables.",
+      "Stir in the peanuts and serve hot."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 19,
+    "chef_id": 2,
+    "name": "Hot and Sour Soup",
+    "ingredients": [
+      "4 cups chicken stock",
+      "1/2 cup bamboo shoots, julienned",
+      "1/2 cup mushrooms, sliced",
+      "1/2 cup tofu, diced",
+      "2 tbsp soy sauce",
+      "2 tbsp rice vinegar",
+      "2 tsp chili flakes",
+      "2 tsp sesame oil",
+      "2 eggs, beaten",
+      "2 tbsp cornstarch",
+      "2 tbsp water"
+    ],
+    "cooking_method": [
+      "In a pot, bring the chicken stock to a boil.",
+      "Add the bamboo shoots, mushrooms, tofu, soy sauce, rice vinegar, chili flakes, and sesame oil.",
+      "Simmer for 5-10 minutes.",
+      "Mix together cornstarch and water in a separate bowl.",
+      "Slowly pour the cornstarch mixture into the soup, stirring constantly until the soup thickens.",
+      "Slowly pour the beaten eggs into the soup, stirring gently to create egg ribbons.",
+      "Serve hot."
+    ],
+    "ratings": 4.2
+  },
+  {
+    "_id": 20,
+    "chef_id": 2,
+    "name": "Steamed Fish with Ginger and Scallions",
+    "ingredients": [
+      "1 lb whole fish, such as tilapia or sea bass",
+      "1/4 cup soy sauce",
+      "2 tbsp Shaoxing wine",
+      "2 tbsp vegetable oil",
+      "1 tbsp minced ginger",
+      "2 green onions, thinly sliced",
+      "1/4 cup hot water"
+    ],
+    "cooking_method": [
+      "Clean the fish and place it on a plate.",
+      " In a small bowl, mix together soy sauce and Shaoxing wine. Pour the mixture over the fish.",
+      " Scatter ginger and green onions on top of the fish.",
+      " In a wok or a steamer, bring water to a boil. Place the plate with the fish on top of a steaming rack and place it in the wok or steamer.",
+      " Cover the wok or steamer and steam the fish for 10-12 minutes, or until cooked through.",
+      " In a small saucepan, heat up vegetable oil until hot. Pour it over the ginger and green onions on the fish.\n7. Serve hot with steamed rice."
+    ],
+    "ratings": 4.5
+  },
+  {
+    "_id": 21,
+    "chef_id": 5,
+    "name": "Beef with Broccoli",
+    "ingredients": [
+      "1 lb flank steak, thinly sliced",
+      "1 lb broccoli florets",
+      "2 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tbsp cornstarch",
+      "1 tsp sugar"
+    ],
+    "cooking_method": [
+      "Heat oil in a wok over high heat.",
+      "Add beef and stir-fry for 2-3 minutes, until browned.",
+      "Add garlic and ginger and stir-fry for 1-2 minutes.",
+      "Add broccoli and stir-fry for another 2-3 minutes.",
+      "In a separate bowl, mix together soy sauce, oyster sauce, cornstarch, and sugar.",
+      "Add the sauce to the wok and stir-fry until the sauce thickens and coats the beef and broccoli.",
+      "Serve hot with rice."
+    ],
+    "ratings": 4.3
+  },
+  {
+    "_id": 22,
+    "chef_id": 5,
+    "name": "Mapo Eggplant",
+    "ingredients": [
+      "1 lb Chinese eggplant, cut into 1-inch pieces",
+      "1/4 lb ground pork",
+      "2 tbsp vegetable oil",
+      "2 tbsp chili bean paste",
+      "1 tbsp minced ginger",
+      "1 tbsp minced garlic",
+      "2 green onions, thinly sliced",
+      "1 tbsp Shaoxing wine",
+      "1 tbsp soy sauce",
+      "1 cup chicken broth",
+      "1 tbsp cornstarch",
+      "1 tbsp water",
+      "1 tbsp Sichuan peppercorns, toasted and ground"
+    ],
+    "cooking_method": [
+      "In a small bowl, mix together soy sauce, Shaoxing wine, chicken broth, cornstarch, and water. Set aside.",
+      ". Heat a wok over high heat. Add vegetable oil, then add ground pork and stir-fry until browned and cooked through, about 3-4 minutes.",
+      " Add chili bean paste, ginger, garlic, and green onions to the wok and stir-fry for 30 seconds.",
+      " Add eggplant to the wok and stir-fry for 3-4 minutes until tender.",
+      " Pour in the soy sauce mixture and bring to a boil, stirring constantly, until the sauce thickens.",
+      " Sprinkle ground Sichuan peppercorns over the top of the dish and serve hot with rice."
+    ],
+    "ratings": 4.7
+  }
+]
